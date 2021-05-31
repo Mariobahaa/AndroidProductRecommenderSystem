@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RecommendationSystem</string>
+    <string name="web_client_id" translatable="false">
+        86568406607-hguj2bhe9vsuhgrohbq05mia0rsfsgpd.apps.googleusercontent.com
+    </string>
+    <string name="welcome_text">Welcome</string>
+    <string name="loginTextView">Sign in</string>
+    <string name="signupTextView">Sign up</string>
+    <string name="emailText">Email</string>
+    <string name="passwordText">Password</string>
+    <string name="nameTexr">Name</string>
+    <string name="signInText">Sign in</string>
+    <string name="signUpText">Sign up</string>
+    <string name="signInNoAccountText">No account yet?</string>
+    <string name="signInRegisterText">Sign up</string>
+
+    <string name="signUpHaveAccountText">Have an account?</string>
+    <string name="signUpRegisterText">Sign in</string>
+    <string name="searchBirthDateText">mm/dd/yyyy</string>
+    <string name="searchText">Search</string>
+    <string name="addText">Add</string>
+    <string name="searchAddChidrenText">Add Child</string>
+    <string name="logOutText">SignOut</string>
+    <string name="enterWordSearch">Enter your word </string>
+
+
+    <string name="signInOrText">OR</string>
+    <string name="surNameText">Surname</string>
+    <string name="idNumberText">ID number</string>
+    <string name="streetText">Street</string>
+    <string name="cityText">City</string>
+    <string name="phoneText">Phone</string>
+
+    <string name="signUpAlreadyRegisterd">This email is already Registered</string>
+    <string name="signInGmailText">Sign in with Gmail</string>
+    <string name="passwordErrorMessage">Should contains at least 8 characters and numbers</string>
+</resources>
